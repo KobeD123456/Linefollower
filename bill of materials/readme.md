@@ -19,7 +19,9 @@
 13	Weerstand	Weerstand 10kΩ	Recup	0	1	0
 14	Prototype board	Double shielded board 50x70mm	Nieuw	0,98	1	0,98
 15	Frame	Modelkarton	Recup	1,51	1	1,51
-Totaal prijs:						67,58
-![image](https://user-images.githubusercontent.com/115156903/207150847-3e2afb23-218d-48b9-9ecf-c77dc17a4fc7.png)
+16	Motorbracket	PLA	Nieuw	0,34	2	0,68
+Totaal prijs:						68,26
+![image](https://user-images.githubusercontent.com/115156903/207295553-615f373b-6142-4225-a99f-d9d72b98397f.png)
+
 
 
