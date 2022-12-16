@@ -3,8 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
-|Nr.	Naam	Omschrijving	Nieuw/Recup	Prijs/stuk	Aantal	Subtotaal
-1	Microcontroller	Arduino Nano	Nieuw	5,4	1	5,4
+|1|Microcontroller|	Arduino Nano|	Nieuw	|5,4|	1	|5,4
 2	Sensoren	QTR-8A	Nieuw	11,91	1	11,91
 3	H-brug	DRV8833	Nieuw	6,5	1	6,5
 4	Bluetooth module	HC-05	Nieuw	4	1	4
