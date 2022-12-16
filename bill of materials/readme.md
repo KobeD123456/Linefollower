@@ -4,11 +4,11 @@
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
 |1|Microcontroller|	Arduino Nano|	Nieuw	|5,4|	1	|5,4
-2	Sensoren	QTR-8A	Nieuw	11,91	1	11,91
-3	H-brug	DRV8833	Nieuw	6,5	1	6,5
-4	Bluetooth module	HC-05	Nieuw	4	1	4
-5	Motoren	Gear motor 9V -10:1	Nieuw	7,99	2	15,98
-6	Wielen	Wielen pair 32x7mm	Nieuw	4,32	1	4,32
+2	|Sensoren|	QTR-8A|	Nieuw|	11,91|	1|	11,91|
+3|	H-brug	|DRV8833|	Nieuw|	6,5|	1	|6,5|
+4|	Bluetooth module|	HC-05|	Nieuw|	4|	1|	4|
+5|	Motoren|	Gear motor 9V -30:1|	Nieuw|	7,99|	2	|15,98|
+6|	Wielen	|Wielen pair 32x7mm|	Nieuw	|4,32|	1	|4,32|
 7	Batterij	Samsung NR18650	Nieuw	8,49	2	16,98
 8	Led	Led blauw 5V	Recup	0	1	0
 9	Drukknop	Drukknop 	Recup	0	1	0
