@@ -1,7 +1,7 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-Je laadt de batterijen op met een specifieke batterij lader
+Je laadt de batterijen op met een specifieke Li-ion batterij lader
 
 ### draadloze communicatie
 #### verbinding maken
