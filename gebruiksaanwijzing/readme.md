@@ -7,7 +7,7 @@ Je laadt de batterijen op met een specifieke Li-ion batterij lader
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Je maakt verbinding via een bluetooth verbinding met de HC-05 module en de parameters stuur je door via een bluetooth terminal
 
 #### commando's
 •	 “run” => Starten met rijden (dit kan ook met de knop gedaan worden)
