@@ -2,6 +2,8 @@
 
 ### opladen / vervangen batterijen
 Je laadt de batterijen op met een specifieke Li-ion batterij lader
+![image](https://user-images.githubusercontent.com/115156903/209110387-6782f428-92c3-4b1a-bc80-7447a6cde8b3.png)
+
 
 ### draadloze communicatie
 #### verbinding maken
